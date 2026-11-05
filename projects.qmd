@@ -1,0 +1,26 @@
+---
+title: "Projects"
+---
+
+Code and analysis from my [GitHub](https://github.com/tejeramaxwell).
+
+::: entry
+**[EqualPayForEqualWork](https://github.com/tejeramaxwell/EqualPayForEqualWork)** [2023 – Present]{.date}\
+[Master's thesis, University of Colorado Denver. Jupyter Notebook.]{.place}
+
+Uses CPS microdata to show that pay transparency laws contributed to Colorado leading the nation in reducing the gender wage gap. Related: [factsheet](https://www.wfco.org/equalpay), [Colorado Sun coverage](https://coloradosun.com/2024/03/16/colorado-women-gender-pay-gap-men-parity-equity/), [Substack summary](https://maxtejera.substack.com/p/colorados-pay-transparency-law-closing).
+:::
+
+::: entry
+**[Summer-2024-Projects](https://github.com/tejeramaxwell/Summer-2024-Projects)** [2024]{.date}\
+[Jupyter Notebook]{.place}
+
+Data analysis projects from summer 2024.
+:::
+
+::: entry
+**[Old-Projects](https://github.com/tejeramaxwell/Old-Projects)** [Pre-2024]{.date}\
+[Archive]{.place}
+
+Earlier work from before 2024.
+:::

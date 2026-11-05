@@ -1,0 +1,31 @@
+---
+title: ""
+---
+
+::: profile
+# Maxwell "Max" Tejera
+
+<div class="affil">PhD student in Policy Analysis, RAND School of Public Policy<br>Arlington, VA</div>
+
+<div class="links">
+<a href="mailto:max@maxtejera.com">max@maxtejera.com</a>
+<a href="https://www.linkedin.com/in/maxwelltejera/">LinkedIn</a>
+<a href="https://github.com/tejeramaxwell">GitHub</a>
+<a href="https://maxtejera.substack.com">Substack</a>
+<a href="resume.qmd">Curriculum Vitae</a>
+</div>
+:::
+
+## About
+
+I am a labor economist and natural storyteller. My work focuses on labor economics and related topics in people analytics, workforce development, and industrial-organizational psychology, with a growing interest in resume, compensation, and job postings data.
+
+Before starting my PhD, I was a Senior Associate in KPMG's Economic & Statistical Consulting practice (Labor & Workforce), where I built forecasting and statistical models for state and federal workforce agencies. Earlier, I worked as a county economist and budget analyst, a city fiscal administrator, and a public finance investment banking analyst.
+
+## Research interests
+
+Labor market analysis, forecasting, causal inference, machine learning for workforce policy, pay transparency and compensation, and job postings and resume data.
+
+## Selected work
+
+- **Pay transparency and the gender wage gap** (master's thesis, University of Colorado Denver). Used CPS microdata to show that pay transparency laws contributed to Colorado leading the nation in reducing the gender wage gap. See [Projects](projects.qmd) and [Writing](writing.qmd).

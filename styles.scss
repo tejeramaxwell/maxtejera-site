@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+$primary: #7a1f2b;
+$link-color: #7a1f2b;
+$body-color: #222;
+$font-family-sans-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-size-root: 17px;
+$navbar-bg: #ffffff;
+$navbar-fg: #222;
+$navbar-hover-color: #7a1f2b;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #ddd; }
+.navbar-brand { font-weight: 600; }
+
+#quarto-content { max-width: 52rem; margin: 0 auto; }
+h1.title { font-size: 1.9rem; margin-bottom: 1rem; }
+
+h2 {
+  font-size: 1.05rem;
+  font-variant: small-caps;
+  letter-spacing: .06em;
+  text-transform: lowercase;
+  border-bottom: 1px solid #999;
+  padding-bottom: .15rem;
+  margin-top: 2rem;
+}
+
+.date { float: right; font-style: normal; color: #444; margin-left: 1rem; }
+.entry { margin-bottom: 1rem; }
+.entry ul { margin-top: .25rem; }
+.entry li { margin-bottom: .15rem; }
+.place { font-style: italic; color: #444; }
+
+.profile h1 { font-size: 2.2rem; margin-bottom: .1rem; }
+.profile .affil { font-size: 1.05rem; color: #444; margin-bottom: .75rem; }
+.profile .links a { margin-right: 1rem; }

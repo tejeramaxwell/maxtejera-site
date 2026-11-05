@@ -1,0 +1,24 @@
+---
+title: "Services"
+---
+
+<!-- TODO: replace these placeholders with your real offerings. -->
+
+::: card-grid
+::: card-item
+### Service one
+What it is, who it's for, and the outcome.
+:::
+::: card-item
+### Service two
+What it is, who it's for, and the outcome.
+:::
+::: card-item
+### Service three
+What it is, who it's for, and the outcome.
+:::
+:::
+
+## Work with me
+
+Email [max@maxtejera.com](mailto:max@maxtejera.com) with a short description of what you need.

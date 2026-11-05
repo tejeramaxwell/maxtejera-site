@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - resume.qmd
+    - projects.qmd
+    - writing.qmd
+  resources:
+    - CNAME
+
+website:
+  title: "Max Tejera"
+  site-url: https://maxtejera.com
+  description: "Max Tejera: labor economist. CV, projects, and writing."
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maxwelltejera/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/tejeramaxwell
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Max Tejera"
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+    page-layout: article
