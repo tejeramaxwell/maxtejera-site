@@ -2,10 +2,13 @@
 title: "Curriculum Vitae"
 ---
 
+::: centered
 *Objective: Labor economist and [natural](https://youtu.be/NtHU2RlWqu0?si=ZUe9DSvWLOd0dnyI&t=1) [storyteller](https://maxtejera.substack.com/p/colorados-pay-transparency-law-closing) seeking to specialize in resume, compensation, and job postings data.*
 
 [Skills]{style="text-decoration: underline;"}: Labor Market Analysis | Project Management | Forecasting | Machine Learning | Causal Inference\
 [Tools Used:]{style="text-decoration: underline;"} Python (Pandas, BeautifulSoup, Statsmodels, Matplotlib) | PowerBI | Jupyter | R | SQL
+
+:::
 
 ## Education
 
@@ -44,7 +47,7 @@ title: "Curriculum Vitae"
 ## Work Experience
 
 ::: entry
-**[KPMG](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council) LLP** [Sep 2024-Sep 2026]{.date}\
+**KPMG LLP** [Sep 2024-Sep 2026]{.date}\
 [Senior Associate – [Economic & Statistical Consulting](https://kpmg.com/us/en/capabilities-services/tax-services/tax-accounting-compliance-and-reporting/economic-statistical-consulting.html), Labor & Workforce Practice]{.place} [McLean, VA]{.date}
 
 - Supported a team of economists serving a portfolio of commercial clients and government agencies. Major projects assisting State Workforce Agencies in program implementation through statistical modeling.
@@ -60,7 +63,7 @@ title: "Curriculum Vitae"
 
 ::: entry
 **[City and County of Denver](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council)** [Feb 2023-Feb 2024]{.date}\
-[[Fiscal Administrator – Office of City Council](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council)]{.place} [Denver, CO]{.date}
+[Fiscal Administrator – Office of City Council]{.place} [Denver, CO]{.date}
 
 - Managed a $9.7 million annual budget covering 74 FTEs for an independent agency of 13 elected officials.
 - Developed regular payroll forecasts using Workday journal line exports. Automated forecasts with VBA.
@@ -79,6 +82,6 @@ title: "Curriculum Vitae"
 
 ::: entry
 **Stifel Nicolaus & Company** [May 2018-Jul 2020]{.date}\
-[Public Finance [Investment Banking Analyst](https://stifelinstitutional.com/meet/dev-talvadkar/)]{.place} [Denver, CO]{.date}
+[Public Finance Investment Banking Analyst]{.place} [Denver, CO]{.date}
 
 :::

@@ -14,7 +14,8 @@ $navbar-hover-color: #7a1f2b;
 .navbar-brand { font-weight: 600; }
 
 #quarto-content main.content { max-width: 70rem; margin: 0 auto; padding: 0 2rem; }
-h1.title { font-size: 1.9rem; margin-bottom: 1rem; }
+h1.title { font-size: 1.9rem; margin-bottom: 1rem; text-align: center; }
+.centered { text-align: center; }
 
 h2 {
   font-size: 1.05rem;
