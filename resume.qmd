@@ -2,81 +2,83 @@
 title: "Curriculum Vitae"
 ---
 
+*Objective: Labor economist and [natural](https://youtu.be/NtHU2RlWqu0?si=ZUe9DSvWLOd0dnyI&t=1) [storyteller](https://maxtejera.substack.com/p/colorados-pay-transparency-law-closing) seeking to specialize in resume, compensation, and job postings data.*
+
+[Skills]{style="text-decoration: underline;"}: Labor Market Analysis | Project Management | Forecasting | Machine Learning | Causal Inference\
+[Tools Used:]{style="text-decoration: underline;"} Python (Pandas, BeautifulSoup, Statsmodels, Matplotlib) | PowerBI | Jupyter | R | SQL
+
 ## Education
 
 ::: entry
-**PhD in Policy Analysis**, RAND School of Public Policy [Sep 2026 – Present]{.date}\
-[Arlington, VA]{.place}
+**PhD in Policy Analysis, RAND School of Public Policy** [Sep 2026 - Present]{.date}\
+[The Frederick S. Pardee Ph.D. in Policy Analysis]{.place} [Arlington, VA]{.date}
 
-- Focus on labor economics and related topics in people analytics, workforce development, and IO-psych.
+- *Focus on labor economics and related topics in people analytics, workforce development, and IO-psych.*
+
 :::
 
 ::: entry
-**MA Economics / MPA (dual degree)**, University of Colorado Denver [Aug 2021 – May 2024]{.date}\
-[College of Liberal Arts / School of Public Affairs, Denver, CO]{.place}
+**MA - Economics / MPA, University of Colorado Denver** [Aug 2021-May 2024]{.date}\
+[**College of Liberal Arts / School of Public Affairs – Dual Master's Degree**]{.place} [Denver, CO]{.date}
 
-- *Master's thesis:* Used CPS microdata to show pay transparency laws contributed to Colorado leading the nation in reducing the gender wage gap. Converted the research to a consulting contract with the law's lead advocacy group; developed a [factsheet](https://www.wfco.org/equalpay), [interviewed with local media](https://coloradosun.com/2024/03/16/colorado-women-gender-pay-gap-men-parity-equity/), and delivered findings summaries.
-- *Coursework:* Econometrics I & II (Stata), Research Seminar, Evidence-Based Decision-Making, Programming with Python, Database Management Systems (SQL), Time-Series Forecasting (R).
+- *[Master's Thesis:]{style="text-decoration: underline;"} Used CPS microdata to show pay transparency laws contributed to Colorado leading the nation in reducing the gender wage gap. Converted research to consulting contract with law's lead advocacy group. [Developed factsheet](https://www.wfco.org/equalpay), [interviewed with local media](https://coloradosun.com/2024/03/16/colorado-women-gender-pay-gap-men-parity-equity/), and delivered findings summaries.*
+- *Relevant coursework: Econometrics I & II (Stata), Research Seminar, Evidence-Based Decision-Making, Programming with Python, Database Management Systems (SQL), Time-Series Forecasting (R).*
+- *[DataCamp SQL Associate](https://www.datacamp.com/certification/sql-associate), [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification), and [SAS Base Programmer](https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html) certified.*
+
 :::
 
 ::: entry
-**Bachelor of Commerce**, University of British Columbia [Aug 2012 – May 2017]{.date}\
-[Sauder School of Business, Vancouver, BC. Major in Finance, Minor in Economics]{.place}
-:::
+**National Association for Business Economists, Certified Business Economist (CBE)** [Jul 2024-Present]{.date}
 
-## Certifications
+- *Won a [competitive scholarship](https://www.linkedin.com/feed/update/urn:li:activity:7085304539616030720/) to attend conferences with practicing industry economists.*
+- *Attended communication training and passed CBE exam. Ongoing continuing education credit obligations.*
 
-::: entry
-**Certified Business Economist (CBE)**, National Association for Business Economics [Jul 2024 – Present]{.date}
-
-- Won a competitive scholarship to attend conferences with practicing industry economists.
-- Completed communication training and passed the CBE exam; ongoing continuing education obligations.
-:::
-
-- [DataCamp SQL Associate](https://www.datacamp.com/certification/sql-associate)
-- [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)
-- [SAS Base Programmer](https://www.sas.com/en_us/certification/credentials/foundation-tools/base-programming-specialist.html)
-
-## Professional experience
-
-::: entry
-**Senior Associate, Economic & Statistical Consulting (Labor & Workforce Practice)**, [KPMG LLP](https://kpmg.com/us/en/capabilities-services/tax-services/tax-accounting-compliance-and-reporting/economic-statistical-consulting.html) [Sep 2024 – Sep 2026]{.date}\
-[McLean, VA]{.place}
-
-- Supported a team of economists serving commercial clients and government agencies; major projects helped State Workforce Agencies implement programs through statistical modeling.
-- For a federal labor agency, forecast skills demand across the NYC metro using ARIMA, QCEW, and O\*NET, supporting prioritization of training program curricula.
-- Assisted a state labor agency in developing and administering Workforce Innovation and Opportunity Act (WIOA) policies and programs, and trained client staff on supporting compliance with AI tools.
-- Led a state labor agency procurement for a workforce development case management and labor exchange system, drafting an RFP that aligned stakeholder interviews with software implementation.
-- Built an econometric ridership forecast for a private equity owner of French toll roads.
-- Developed models to profile unemployment insurance claimants likely to exhaust benefits, evaluating logistic and spline regression, Cox PH, XGBoost, survival trees, and Random Forest.
-- Built an internal tool that synthesizes datasets with three models (Copula, CTGAN, VAE) and compares fidelity using statistical tests.
-- Automated a prior research project measuring local data center sentiment using LLM and news APIs.
 :::
 
 ::: entry
-**Fiscal Administrator, Office of City Council**, [City and County of Denver](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council) [Feb 2023 – Feb 2024]{.date}\
-[Denver, CO]{.place}
+**Bachelor of Commerce, University of British Columbia** [Aug 2012-May 2017]{.date}\
+[Sauder School of Business – Major in Finance, Minor in Economics]{.place} [Vancouver, BC]{.date}
+
+:::
+
+## Work Experience
+
+::: entry
+**[KPMG](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council) LLP** [Sep 2024-Sep 2026]{.date}\
+[Senior Associate – [Economic & Statistical Consulting](https://kpmg.com/us/en/capabilities-services/tax-services/tax-accounting-compliance-and-reporting/economic-statistical-consulting.html), Labor & Workforce Practice]{.place} [McLean, VA]{.date}
+
+- Supported a team of economists serving a portfolio of commercial clients and government agencies. Major projects assisting State Workforce Agencies in program implementation through statistical modeling.
+- For a federal labor agency, produced forecasts of skills demanded across the NYC metro using ARIMA, QCEW, and O\*NET. Used resulting forecast to support prioritization of training program curriculums.
+- Assisted state labor agency in developing and administering Workforce Innovation and Opportunity Act (WIOA) policies and programs. Provided training for client staff in supporting compliance with AI tools.
+- Led a state labor agency procurement for a workforce development case management and labor exchange system. Drafted an RFP aligning stakeholder interviews with software implementation.
+- Conducted an econometric ridership forecast for a private equity fund owner of French toll roads.
+- Developed models to profile unemployment insurance claimants likely to deplete benefits. Evaluated approaches including logistical & spline regression, Cox PH, XGBoost, survival trees, and Random Forest.
+- For marketing efforts and validation testing, developed an internal tool to synthesize datasets using three different models (Copula, CTGAN, VAE) and compare result fidelity using statistical tests.
+- Automated a prior research project determining local data center sentiment using LLM and news APIs.
+
+:::
+
+::: entry
+**[City and County of Denver](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council)** [Feb 2023-Feb 2024]{.date}\
+[[Fiscal Administrator – Office of City Council](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-City-Council)]{.place} [Denver, CO]{.date}
 
 - Managed a $9.7 million annual budget covering 74 FTEs for an independent agency of 13 elected officials.
-- Developed regular payroll forecasts from Workday journal line exports and automated them with VBA.
-- Presented to Denver City Council ([video](https://youtu.be/NtHU2RlWqu0)).
+- Developed regular payroll forecasts using Workday journal line exports. Automated forecasts with VBA.
+
 :::
 
 ::: entry
-**Staff Economist & Senior Budget Analyst, Department of Strategy, Innovation & Finance**, Jefferson County, Colorado [Jul 2020 – Jul 2022]{.date}\
-[Golden, CO]{.place}
+**Jefferson County, Colorado** [Jul 2020-Jul 2022]{.date}\
+[[Staff Economist & Senior Budget Analyst – Department of Strategy, Innovation & Finance](https://www.jeffco.us/4226/COVID-19-Funding-and-Relief)]{.place} [Golden, CO]{.date}
 
-- Presented monthly to county commissioners on the local labor market's pandemic response, visualizing indicators from Lightcast, CDLE, BLS, ACS, and QCEW.
-- Supported the county CFO in deploying $102 million (CARES Act) and $113 million (ARPA) in [federal funds](https://www.jeffco.us/4226/COVID-19-Funding-and-Relief).
-- Developed and executed 11 grant programs supporting local small businesses and nonprofits.
+- Presented monthly to county commissioners on local labor market's pandemic response. Visualized economic indicators from local, federal, and private sources (Lightcast, CDLE, BLS, ACS, QCEW).
+- Supported the county CFO in deploying $102 million and $113 million received through the Coronavirus Aid, Relief, and Economic Security (CARES) Act and American Rescue Plan Act (ARPA), respectively.
+- Developed and executed 11 different grant programs supporting local small businesses and nonprofits.
+
 :::
 
 ::: entry
-**Public Finance Investment Banking Analyst**, [Stifel Nicolaus & Company](https://stifelinstitutional.com/meet/dev-talvadkar/) [May 2018 – Jul 2020]{.date}\
-[Denver, CO]{.place}
+**Stifel Nicolaus & Company** [May 2018-Jul 2020]{.date}\
+[Public Finance [Investment Banking Analyst](https://stifelinstitutional.com/meet/dev-talvadkar/)]{.place} [Denver, CO]{.date}
+
 :::
-
-## Skills
-
-**Methods:** Labor market analysis, forecasting, causal inference, machine learning, project management.\
-**Tools:** Python (Pandas, BeautifulSoup, Statsmodels, Matplotlib), R, SQL, Stata, Power BI, Jupyter.

@@ -14,13 +14,14 @@ title: ""
 <a href="https://maxtejera.substack.com">Substack</a>
 <a href="resume.qmd">Curriculum Vitae</a>
 </div>
+
 :::
 
 ## About
 
-I am a labor economist and natural storyteller. My work focuses on labor economics and related topics in people analytics, workforce development, and industrial-organizational psychology, with a growing interest in resume, compensation, and job postings data.
+I am a labor economist and natural storyteller. My work focuses on topics in people analytics, workforce development, and industrial-organizational psychology. I seek to specialize in data on resumes, job postings data, and compensation data.
 
-Before starting my PhD, I was a Senior Associate in KPMG's Economic & Statistical Consulting practice (Labor & Workforce), where I built forecasting and statistical models for state and federal workforce agencies. Earlier, I worked as a county economist and budget analyst, a city fiscal administrator, and a public finance investment banking analyst.
+Before starting my PhD, I was a Senior Associate in KPMG's Economic & Statistical Consulting practice (Labor & Workforce group), where I did projects in statistical modeling, forecasting, and program evaluation for state and federal workforce agencies. Prior to KPMG I worked in public finance roles across the Denver area that included managing stimulus funds, underwriting municipal bonds, and managing budgets for elected officials.
 
 ## Research interests
 

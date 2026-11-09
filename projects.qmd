@@ -9,6 +9,7 @@ Code and analysis from my [GitHub](https://github.com/tejeramaxwell).
 [Master's thesis, University of Colorado Denver. Jupyter Notebook.]{.place}
 
 Uses CPS microdata to show that pay transparency laws contributed to Colorado leading the nation in reducing the gender wage gap. Related: [factsheet](https://www.wfco.org/equalpay), [Colorado Sun coverage](https://coloradosun.com/2024/03/16/colorado-women-gender-pay-gap-men-parity-equity/), [Substack summary](https://maxtejera.substack.com/p/colorados-pay-transparency-law-closing).
+
 :::
 
 ::: entry
@@ -16,6 +17,7 @@ Uses CPS microdata to show that pay transparency laws contributed to Colorado le
 [Jupyter Notebook]{.place}
 
 Data analysis projects from summer 2024.
+
 :::
 
 ::: entry
@@ -23,4 +25,5 @@ Data analysis projects from summer 2024.
 [Archive]{.place}
 
 Earlier work from before 2024.
+
 :::

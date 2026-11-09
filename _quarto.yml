@@ -36,4 +36,4 @@ format:
   html:
     theme: [default, styles.scss]
     toc: false
-    page-layout: article
+    page-layout: full

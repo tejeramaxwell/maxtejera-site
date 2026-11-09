@@ -13,7 +13,7 @@ $navbar-hover-color: #7a1f2b;
 .navbar { border-bottom: 1px solid #ddd; }
 .navbar-brand { font-weight: 600; }
 
-#quarto-content { max-width: 52rem; margin: 0 auto; }
+#quarto-content main.content { max-width: 70rem; margin: 0 auto; padding: 0 2rem; }
 h1.title { font-size: 1.9rem; margin-bottom: 1rem; }
 
 h2 {
@@ -32,6 +32,7 @@ h2 {
 .entry li { margin-bottom: .15rem; }
 .place { font-style: italic; color: #444; }
 
+.profile { text-align: center; }
 .profile h1 { font-size: 2.2rem; margin-bottom: .1rem; }
 .profile .affil { font-size: 1.05rem; color: #444; margin-bottom: .75rem; }
 .profile .links a { margin-right: 1rem; }
